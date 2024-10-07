@@ -1,2 +1,2 @@
 # PythonTraining
-Simple API code
+API code
